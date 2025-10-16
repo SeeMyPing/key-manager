@@ -4,13 +4,19 @@ A simple Python project for managing Scaleway API keys.
 
 ## TODO
 
-[] Logging
-[] Connectivity check first
-[] Data consistensy
-[] MultiCloud support
-[] MultiSource support
-[] API key Management
-[] Output in different datasource (API key creation -> written in )
+□ Logging
+
+□ Connectivity check first
+
+□ Data consistensy
+
+□ MultiCloud support
+
+□ MultiSource support
+
+□ API key Management
+
+□ Output in different datasource (API key creation -> written in )
 
 ## Features
 
@@ -39,9 +45,4 @@ python main.py
 ```
 
 ## Contributing
-
 Pull requests are welcome.
-
-## License
-
-[MIT](LICENSE)
