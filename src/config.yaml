@@ -1,0 +1,7 @@
+---
+projects:
+  - name: example-project-name
+    id: uuid-example-project-scaleay
+    keys:
+      - name: keyname
+        type: keytype
