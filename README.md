@@ -1,6 +1,6 @@
-# scw-key-manager
+# key-manager
 
-A simple Python project for managing Scaleway API keys.
+A simple Python project for managing cloud API & SSH keys.
 
 ## TODO
 
